@@ -1,4 +1,4 @@
-<img src="ola.png" alt="Ola Logo" width="200"/>
+
 
 # 🚕 OLA Booking Dashboard | Data Analytics Project
 
